@@ -1,3 +1,4 @@
+(Only change I made is the requirement.txt to fix some conflicts)
 ## VC Client
 
 [English](/README_en.md) [Korean](/README_ko.md)
